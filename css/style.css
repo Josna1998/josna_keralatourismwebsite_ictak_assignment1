@@ -1,0 +1,152 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.carousel-item {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.navbar{
+    background-color: rgb(91, 173, 228);
+    border-bottom: 10px;   
+}
+
+.navbar-nav a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 8px;
+    color:rgb(12, 85, 85);
+}
+
+.form-inline{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.navbar-nav a:hover{
+    color: cyan;
+    transition: 0.5s ease-in-out;
+}
+
+.navbar .navbar-toggler{
+    border: 1px solid whitesmoke
+}
+
+.w-100{
+    height: 100vh;
+}
+
+/* About */
+
+.about{
+    margin-top: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    background-attachment: fixed;
+}
+
+.heading{
+ margin-top: 110px;
+ text-align: center;
+ color: rgb(76, 18, 87);
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+ font-size: 1cm;
+}
+
+.banner-image{
+    height: 70px;
+    width: 100px;
+    padding: 55px;
+    border: 0px solid rgb(183, 205, 214);
+    border-radius: 5px;
+}
+
+.about p{
+    color: rgb(99, 37, 99);
+    font-size: 18px;;
+}
+
+#aboutpage{
+    height: 125vh;
+}
+
+/* district */
+
+.img{
+    margin-top: 100px;
+}
+
+.img a img{
+    border-radius: 8px;
+    width:85%;
+    height:251px;
+    padding:5x;
+}
+.img a h5{
+    color:rgb(67, 54, 150);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: skyblue;
+}
+
+.columns{
+    float: left;
+    width:33.3%;
+    padding: 8px;
+}
+
+#district{
+    height: 330vh;
+}
+
+/* places */
+
+.placespage{
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgb(121, 194, 223);
+    background-size: cover;
+}
+
+.place{
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.headings{
+    text-align: center;
+    color: rgb(76, 18, 87);
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    padding: 60px;
+}
+
+
+.heads{
+    margin-top: 110px;
+    text-align: center;
+    color: rgb(76, 18, 87);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1cm;
+    padding-bottom: 25px;
+}
+
+.imgs h6{
+    padding-bottom: 40px;
+    color:rgb(102, 16, 184);
+}
+
+.imgs img{
+    border-radius: 5px;
+}
+
+
+
+  
